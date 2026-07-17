@@ -1,8 +1,8 @@
 {
-    "name": "malcanek/idoklad-v2",
+    "name": "bociancz/idoklad-api",
     "description": "PHP třída pro ulehčení požadavků na iDoklad api v2.",
     "keywords": ["idoklad", "fakturace"],
-    "homepage": "https://github.com/malcanek/iDoklad-v2",
+    "homepage": "https://github.com/BocianCZ/iDoklad-API",
     "license": "MIT",
     "authors": [
         {
